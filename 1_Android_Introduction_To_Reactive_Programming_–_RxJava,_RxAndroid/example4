@@ -10,10 +10,9 @@ import io.reactivex.observers.DisposableObserver
 import io.reactivex.schedulers.Schedulers
 import jk.innovations.mordenx.R
 
-// I am try to implement on kotlin from 
+// AndroidHive Android Introduction To Reactive Programming – RxJava, RxAndroid Java Code Sample in Koltin
 // Original Java Code Available On:
 // https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/#example4
-
 
 class SplashActivity : AppCompatActivity() {
 
